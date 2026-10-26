@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-AviadoBio is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by nea) and added to the network as a stub for full-pipeline profiling.
-- https://aviadobio.com
+AviadoBio Ltd is a biopharmaceutical development company focused on gene therapy and innovative treatments for neurodegenerative diseases such as frontotemporal dementia, retinitis pigmentosa, Alzheimer’s, and ALS. The company aims to deliver hope by advancing scientific research, clinical trials, and patient care, with programs spanning discovery, pipeline development, and collaborations with partners and academic institutions.
+
+**Areas:** Biopharma · GeneTherapy · Neurodegenerative · ClinicalTrials · Innovation
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://aviadobio.com)
+- [Documentation](https://aviadobio.com/science/)
+- [Support](https://aviadobio.com/contact)
+- [Privacy policy](https://aviadobio.com/privacy-policy)
+- [GitHub](https://github.com/Aviadobio)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/aviadobio/](https://apis.io/providers/aviadobio/).
